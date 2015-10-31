@@ -26,10 +26,11 @@ Why you should show up
     in Cleveland Heights.  This is a great town but it doesn't get much
     attention.
 
-
-
 Proposal guidelines
 ===================
+
+one third rookie talks
+----------------------
 
 A third of the talks should be accessible for beginners.  When I say
 beginners, I mean somebody that maybe has never done anything beyond
@@ -44,12 +45,16 @@ fill out a facebook profile.  So, I mean stuff like:
 
 *   What the heck is the linux command line
 
+two thirds everything else
+--------------------------
+
 After that, for the other two thirds, let's talk about stuff anything
 related to open-source web technology.
 
 In other words, I want talks like all the awesome ones I see at PyOhio,
 Code Mash, OSCON, etc.
 
+Please, no promotional talks for paid products.
 
 Venue: TBD
 ==========
