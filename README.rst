@@ -56,18 +56,16 @@ Code Mash, OSCON, etc.
 
 Please, no promotional talks for paid products.
 
-Venue: TBD
-==========
+Venue: The Cleveland Heights Library
+====================================
 
-I think The Cleveland Heights Library is the best bet for the first
-year.  It's a beautiful facility, free for non-profits, and there's
-plenty of places to walk to afterward.
+It's a beautiful facility, free for non-profits, and there's plenty of places
+to walk to afterward.
 
-Date: TBD
-=========
+http://heightslibrary.org/library-information/lee-road/
 
-Some time after the winter, when it will be warm enough to walk around
-on Lee Road.
+Date: April 30th, 2016
+======================
 
 
 Code of Conduct: TBD
