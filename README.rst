@@ -5,6 +5,9 @@ Heights Code Hop
 Conference in Cleveland Heights, OH focused on open-source web
 programming.  Show up and learn some cool stuff!
 
+Here's the website: http://heights-code-hop.org
+
+
 Want to help organize it?
 =========================
 
